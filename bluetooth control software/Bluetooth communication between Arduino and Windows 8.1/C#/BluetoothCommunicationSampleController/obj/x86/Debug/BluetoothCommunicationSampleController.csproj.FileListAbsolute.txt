@@ -1,0 +1,73 @@
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\App.xbf
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\MainPage.xbf
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.exe
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.pdb
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\resources.pri
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\AppxManifest.xml
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.build.appxrecipe
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\App.g.i.cs
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\App.g.cs
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.g.i.cs
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.g.cs
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\XamlTypeInfo.g.cs
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\App.xaml
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.xaml
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\App.xbf
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.xbf
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\XamlSaveStateFile.xml
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.exe
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.pdb
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\priconfig.xml
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\priconfig.xml.intermediate
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\layout.resfiles
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\layout.resfiles.intermediate
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\resources.resfiles
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\resources.resfiles.intermediate
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\pri.resfiles
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\pri.resfiles.intermediate
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\qualifiers.txt
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\qualifiers.txt.intermediate
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\ProjectArchitectures.txt
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\TCD.Controls.dll
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\bin\x86\Debug\TCD.Controls.pri
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.csprojResolveAssemblyReference.cache
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.csproj.GenerateResource.Cache
+N:\DevTemp\VS 2013 Projects\Arduino\BluetoothCommunicationSample\BluetoothCommunicationSampleController\obj\x86\Debug\TCD.Controls.pri.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\App.xbf
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\MainPage.xbf
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.xr.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.exe
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.pdb
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\resources.pri
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\AppxManifest.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\BluetoothCommunicationSampleController.build.appxrecipe
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\TCD.Controls.dll
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\bin\x86\Debug\TCD.Controls.pri
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.csprojResolveAssemblyReference.cache
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\App.g.i.cs
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\App.g.cs
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.g.i.cs
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.g.cs
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\App.xaml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.xaml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\App.xbf
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\MainPage.xbf
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.exe
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.pdb
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\BluetoothCommunicationSampleController.csproj.GenerateResource.Cache
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\priconfig.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\priconfig.xml.intermediate
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\layout.resfiles
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\layout.resfiles.intermediate
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\resources.resfiles
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\resources.resfiles.intermediate
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\pri.resfiles
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\pri.resfiles.intermediate
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\qualifiers.txt
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\TCD.Controls.pri.xml
+E:\Samples\Bluetooth communication between Arduino and Windows 8.1\C#\BluetoothCommunicationSampleController\obj\x86\Debug\ProjectArchitectures.txt
